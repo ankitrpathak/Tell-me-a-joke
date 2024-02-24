@@ -1,9 +1,9 @@
 
-#  JJJJJ  OOOO  K   K  EEEEE
-#    J   O    O K  K   E
-#    J   O    O KKK    EEEEE
-# J  J   O    O K  K   E
-#  JJJ    OOOO  K   K  EEEEE
+  JJJJJ  OOOO  K   K  EEEEE
+    J   O    O K  K   E
+    J   O    O KKK    EEEEE
+ J  J   O    O K  K   E
+  JJJ    OOOO  K   K  EEEEE
 
 
 ## This is just a practice website which i have created
