@@ -27,8 +27,4 @@ To get started with Laugh Heaven, simply clone this repository to your local mac
 
 Have a joke that never fails to crack you up? Feel free to contribute to Laugh Heaven by adding your favorite jokes to the collection! Simply fork this repository, add your joke to the list, and submit a pull request. Let's spread the joy of laughter together!
 
-## 📜 License
-
-Laugh Heaven is licensed under the [MIT License](LICENSE), so feel free to use, modify, and distribute it as you see fit.
-
 ---
